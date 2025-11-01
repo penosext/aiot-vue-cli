@@ -1,5 +1,5 @@
 ## Aiot-vue-cli
-** verson ** :1.0.32-bata.1
+**verson**:1.0.32-bata.1
 ```npm
 npm install git+https://github.com/penosext/aiot-vue-cli.git
 ```
