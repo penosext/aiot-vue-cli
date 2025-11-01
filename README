@@ -1,2 +1,4 @@
-版本：1.0.9-bata.1
-新增特性：支持部分babel语法转化
+** verson **:1.0.32-bata.1
+```npm
+npm install git+https://github.com/penosext/aiot-vue-cli.git
+```
